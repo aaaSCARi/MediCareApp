@@ -15,11 +15,6 @@
             android:label="@string/title_activity_scrolling3"
             android:theme="@style/Theme.MediCareMain.NoActionBar" />
         <activity
-            android:name=".ScrollingActivity2"
-            android:exported="false"
-            android:label="@string/title_activity_scrolling2"
-            android:theme="@style/Theme.MediCareMain.NoActionBar" />
-        <activity
             android:name=".ScrollingActivity"
             android:exported="false"
             android:label="@string/title_activity_scrolling"
